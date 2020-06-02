@@ -1,0 +1,110 @@
+[
+    {
+     "img": "Images/A6.png",
+     "alt": "Aleali x AJ6",
+     "productName": "Aleali May x Wmns Air Jordan 6 Retro",
+     "productCost": "$425.00",
+     "productDescription": "The Aleali May x Wmns Air Jordan 6 Retro marks the third collaboration with the international fashion stylist. Unveiled March 2019, this once exclusive 'Millennial Pink' women’s sneaker tells the story of the influencer’s career journey.",
+     "type": "shoes",
+     "price": "price200to500"
+ },
+ {
+     "img": "Images/O3.png",
+     "alt": "Oregon AJ3",
+     "productName": "Air Jordan 3 Retro 'Oregon Pit Crew'",
+     "productCost": "$4,000.00",
+     "productDescription": "Nike released a colorway of the classic Air Jordan 3 silhouette in celebration of the University of Oregon student cheer section known as the Pit Crew. The Air Jordan 3 Retro 'Oregon Pit Crew' boasts an Oregon “O” logo on the tongue, and a duck foot motif on the heel.",
+     "type": "shoes",
+     "price": "priceOver500"
+ },
+ {
+     "img": "Images/P7.png",
+     "alt": "Premio AJ7",
+     "productName": "Air Jordan 7 Retro Premio 'Bin23'",
+     "productCost": "$745.00",
+     "productDescription": "The ‘Bin23’ colorway of the Air Jordan 7 is based on one of the original drawings Tinker Hatfield created when designing the shoe. The sketch shows the black and white heel detail present on this retro. Limited to only 2,059 pairs upon release in 2010, each shoe is individually numbered",
+     "type": "shoes",
+     "price": "priceOver500"
+ },
+ {
+     "img": "Images/TS998.png",
+     "alt": "Todd Snyder x NB 9998",
+     "productName": "Todd Snyder x 998 'Color Spectrum'",
+     "productCost": "$240.00",
+     "productDescription": "The made-in-USA 998 execution features an eye-catching color-blocked upper with hits of red, green, yellow, blue and black. Snyder himself described the collaboration by saying “As a lifelong fan of New Balance, I loved being able to take the iconic 998 shoe...”",
+     "type": "shoes",
+     "price": "price200to500"
+ },
+ {
+     "img": "Images/U1.png",
+     "alt": "Union x AJ 1",
+     "productName": "Union x Air Jordan 1 Retro High 'Black Toe'",
+     "productCost": "$1,145.00",
+     "productDescription": "The Union x Air Jordan 1 Retro High 'Black Toe' sees the venerable Los Angeles retailer take inspiration from thrifting and DIY culture to create a new take on the sneaker that started it all. In addition to a pre-yellowed midsole for a vintage aesthetic.",
+     "type": "shoes",
+     "price": "priceOver500"
+ },
+ {
+     "img": "Images/T4.png",
+     "alt": "Travis Scott x AJ4",
+     "productName": "Travis Scott x Air Jordan 4 Retro 'Cactus Jack'",
+     "productCost": "$650.00",
+     "productDescription": "Music artist Travis Scott hails from Houston, where the Oilers used to take the field in red, white and blue uniforms. The Travis Scott x Air Jordan 4 Retro 'Cactus Jack' colorway pays tribute to the city’s bygone football team with Cactus Jack branding appears on the left heel in Varsity Red.",
+     "type": "shoes",
+     "price": "priceOver500"
+ },
+ {
+     "img": "Images/NY2.png",
+     "alt": "Nike Air Yeezy 2 Pure Plat",
+     "productName": "Air Yeezy 2 NRG 'Pure Platinum'",
+     "productCost": "$4,650.00",
+     "productDescription": "The Air Yeezy 2 NRG 'Pure Platinum' launched in June 2012 featuring a subdued colorway that blends varying shades of grey on the upper and a contrasting pop of bright red on the collar lining. The unique design allows it to straddle the line between fashion and sport.",
+     "type": "shoes",
+     "price": "priceOver500"
+ },
+ {
+     "img": "Images/WVR.png",
+     "alt": "Yeezy 700 Waverunner",
+     "productName": "Yeezy Boost 700 'Wave Runner'",
+     "productCost": "$400.00",
+     "productDescription": "This inaugural colorway of Kanye West’s Yeezy Wave Runner 700 launched in November 2017, following a public debut earlier in the year as part of the Yeezy Season 5 runway show. The sneaker’s retro-inspired lines worked in tandem with a chunky silhouette reminiscent of an earlier era.",
+     "type": "accessories",
+     "price": "price200to500"
+ },
+ {
+    "img": "Images/FOGshorts.png",
+    "alt": "Fear of God Shorts",
+    "productName": "Fear of God Military Physical Training Shorts",
+    "productCost": "$495.00",
+    "productDescription": "Inspired by military training shorts, this design is made from 3M reflective nylon fabric.",
+    "type": "clothes",
+    "price": "price200to500"
+},
+ {
+     "img": "Images/RhudeShorts.png",
+     "alt": "Rhude Shorts",
+     "productName": "Rhude Logo Drawstring Shorts",
+     "productCost": "$500.00",
+     "productDescription": "Relaxed fit shorts topped with elasticized drawstring waist, logo detail along the leg and zipper pockets.",
+     "type": "clothes",
+     "price": "price200to500"
+ },
+ {
+     "img": "Images/PLSTee.png",
+     "alt": "Pleasures Tee",
+     "productName": "Pleasures Return Long-Sleeve T-Shirt 'Creme'",
+     "productCost": "$42.00",
+     "productDescription": "The Return Long Sleeve T-Shirt by Pleasures comes with a printed graphic on the front. This t-shirt features long, inset sleeves and a breathable cotton fabric that deliver all-day comfort.",
+     "type": "clothes",
+     "price": "price0to200"
+ },
+ {
+     "img": "Images/OFWtee.png",
+     "alt": "Nike x Off-White Tee",
+     "productName": "Nikelab x OFF-WHITE Mercurial NRG X Tee White",
+     "productCost": "$200.00",
+     "productDescription": "Just prior to the 2018 World Cup, Virgil Abloh’s OFF-WHITE collaborated with Nike on a “pitch-ready” soccer collection. This tee features OFF-WHITE branding on the front with the Nike Logo on the chest labeled “LOGO” with Virgil’s well known quotations marks surrounding it. The OFF-WHITE theme is carried to the back of the jersey featuring a larger Nike Swoosh.",
+     "type": "clothes",
+     "price": "price0to200"
+ }
+]

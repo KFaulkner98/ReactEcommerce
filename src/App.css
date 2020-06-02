@@ -1,38 +1,168 @@
-.App {
+/* CSS Reset */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Main Styling */
+html, body {
+  font-family: 'Bebas Neue';font-size: 22px;
+  line-height: 1.7em;
+}
+a{
+  color: #333;
+  text-decoration: none;
+}
+
+/* Navbar */
+#navbar{
+  background: rgb(212, 211, 211);
+  color: rgb(74, 157, 253);
+  overflow: auto;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+#navbar a{
+  color: rgb(0, 0, 0);
+}
+
+#navbar h1{
+  padding-top: 10px;
+  text-shadow: aliceblue 2px 2px;
+  padding-left: 410px;
+  font-size: 60px;
+}
+
+#navbar ul{
+  list-style: none;
+  float: left;
+  padding-top: 10px;
+}
+
+#navbar ul li {
+  float: left;
+}
+
+#navbar ul li a {
+  display: inline-block;
+  padding: 20px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#navbar ul li a:hover,
+#navbar ul li a.current{
+  background: rgb(172, 170, 170);
+  color: rgb(250, 251, 252);
+  border-radius: 2em;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Utility Class */
+.container{
+  margin: auto;
+  max-width: 1100px;
+  overflow: auto;
+  padding: 0 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.clr{
+  clear: both;
+}
+
+body {
+  padding-top: 120px;
+}
+
+/* Header & Filters */
+#header{
+  display: inline-block;
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background: rgb(248, 248, 248);
+  width: 100%;
+}
+
+#header h1{
+  color:  rgb(74, 157, 253);
+  text-shadow: rgb(202, 199, 199) 2px 2px;
+  font-size: 40px;
+  padding-left: 50px;
+}
+
+.filters{
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-direction: row;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#productType{
+  background-color: aliceblue;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#productPrice{
+  background-color: aliceblue;
 }
+
+/* Products */  
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  background: rgb(248, 248, 248);
+}
+/* Product Cards */
+.products-card{
+  padding: 2%;
+  flex-grow: 1;
+  flex-basis: 33%;
+  display: flex;  /*So child elements can use flexbox too */
+  flex-direction: column;
+  border: solid 5px rgb(252, 252, 252);
+  justify-content: center;
+  align-items: center;
+  position: static;
+  padding-top: 50px;
+  padding-bottom: 85px;
+}
+/* Product Pic */
+.product-image{
+  max-width: 50%;
+}
+/* Product Info/Price */
+.product-info{
+text-align: center;
+margin-top: auto;
+background: rgb(238, 237, 237);
+box-shadow: 10px 5px;
+align-content: center;
+height: 25%;
+}
+
+.product-info h3{
+align-self: center;
+}
+
+.product-info h4{
+    font-size: 20px;
+}
+
+/* Footer */
+#main-footer{
+  text-align: center;
+  background: rgb(255, 255, 255); /*212, 211, 211*/
+  color: rgb(74, 157, 253);
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#main-footer h3{
+  text-shadow: aliceblue 2px 2px;
+}
+
+#main-footer p{
+  font-size: 15px;
+}
+
